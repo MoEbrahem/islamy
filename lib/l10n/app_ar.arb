@@ -1,0 +1,18 @@
+{
+  "app_title" : "اسلامى",
+  "sura_name": "اسم السورة",
+  "quran" : "القرأن",
+  "hadeth" : "الحديث",
+  "sebha" : "السبحة",
+  "radio" : "الاذاعة",
+  "hadeth_name" : "اسم الحديث",
+  "settings" : "الاعدادات",
+  "language" : "اللغة ",
+  "arabic" : "العربية",
+  "english" : "الانجليزية",
+  "eza3a" : "اذاعة القرأن الكريم",
+  "tsbeh":"عدد التسبيحات",
+  "sobhan_allah": "سبحان الله",
+  "alhamdullah" : "الحمدلله",
+  "allah_akber" : "الله اكبر"
+}
